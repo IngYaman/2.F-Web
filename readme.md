@@ -1,1 +1,1 @@
-toto je moj prva sprava
+toto je moj prva sprava.
