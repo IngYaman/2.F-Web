@@ -1,1 +1,1 @@
-toto je moj prvy serek
+toto je moj prva sprava
