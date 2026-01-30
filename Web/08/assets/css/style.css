@@ -1,0 +1,15 @@
+h2{
+    color:tomato;
+    background-color: whitesmoke;
+    border-radius: 5px;
+
+}
+
+.vyrazny{
+    color:aliceblue;
+    background-color: gray;
+    padding: 15px;
+    border-radius: 5px;
+    border-left: 4px solid blue;
+    font-weight: bold;
+}
