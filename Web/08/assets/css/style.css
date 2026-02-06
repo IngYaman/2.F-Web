@@ -30,8 +30,10 @@ h1{
 
 body{
     max-width: 900px;
-    margin: 0 auto
+    margin: 0 auto;
     padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
 
 }
 
@@ -49,4 +51,13 @@ article{
     border-radius: 4px;
     margin-bottom: 14px;
 
+}
+
+h3{
+    color:rgb(255, 255, 255);
+    background-color:rgb(185, 129, 44)
+}
+
+p{
+    color: black;
 }
